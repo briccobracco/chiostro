@@ -1,0 +1,23 @@
+body{
+   background-image: background.jpg
+}
+
+.contenitore{
+  width: 1000px;
+  margin: auto;
+  border: 10 px;
+}
+
+.img{
+width: 100px;
+}
+
+.subject{
+  height: 20px;
+  color: green;
+  width: 100%;
+}
+.charge{
+  background-color: yellow;
+  width: 40%;
+}
